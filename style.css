@@ -59,6 +59,10 @@ header{
     font-family: Poppins;
     font-size: 20px;
     padding: 0 1.5%;
+    transition: 0.3s;
+}
+.text-1-header:hover{
+    color:#ce4242;
 }
 .p2-header{
     margin: 0;
@@ -119,7 +123,12 @@ header{
     font-family: Poppins;
     font-size: 20px;
     letter-spacing: 0.5px;
+    transition: 0.4s;
 }
+.button-1-header:hover{
+    background-color: rgb(82, 59, 59);
+}
+
 .button-2-header{
     margin: 0 0 0 7%;
     padding: 1.3% 5%;
@@ -130,6 +139,10 @@ header{
     font-family: Poppins;
     font-size: 20px;
     letter-spacing: 0.5px;
+    transition: 0.4s;
+}
+.button-2-header:hover{
+    background-color: rgb(82, 59, 59);
 }
 
 .aside-1{
@@ -165,6 +178,10 @@ header{
     letter-spacing: 0.5px;
     top: 90.2%;
     left: 5.5%;
+    transition: 0.5s;
+}
+.button-aside-1:hover{
+    background-color: rgb(245, 216, 216);
 }
 .div-2-aside-1{
     position: relative;
@@ -245,6 +262,10 @@ header{
     font-family: Poppins Bold;
     letter-spacing: 0.4%;
     font-size: 20px;
+    transition: 0.3s;
+}
+.a-section-1:hover{
+    color:#ce4242;
 }
 .p-section-1{
     display: inline-block;
@@ -339,6 +360,10 @@ header{
     font-family: Poppins Bold;
     letter-spacing: 0.4%;
     font-size: 20px;
+    transition: 0.3s;
+}
+.a-section-2:hover{
+    color:#ce4242;
 }
 .p-section-2{
     display: inline-block;
